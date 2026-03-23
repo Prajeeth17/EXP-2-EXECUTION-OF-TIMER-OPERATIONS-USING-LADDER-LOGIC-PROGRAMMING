@@ -1,10 +1,11 @@
-# EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
+# EXPERIMENT 2:EXECUTION OF TIMER OPERATIONS USING LADDER LOGIC PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : Prajeeth K T
+ #### REGISTER NUMBER : 212222110034
+ #### DEPARTMENT : CSE(IOT)
+ #### YEAR : IV
+ #### DATE : 03-02-2026
 
  
 # Aim:
@@ -82,7 +83,33 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+<img width="660" height="301" alt="Screenshot 2026-02-09 083826" src="https://github.com/user-attachments/assets/07126c37-e467-4a9a-b07b-dc543a1deb10" />
 
+<img width="659" height="208" alt="Screenshot 2026-02-09 083838" src="https://github.com/user-attachments/assets/f98b94aa-e880-455c-818f-d20f8033b718" />
+
+<img width="755" height="383" alt="Screenshot 2026-02-09 084108" src="https://github.com/user-attachments/assets/9f4de4c3-c545-4d49-94c4-1ff677b5aaaa" />
+
+<img width="642" height="397" alt="Screenshot 2026-02-09 084117" src="https://github.com/user-attachments/assets/b12d660b-9dd9-4a63-b9bf-20adec78a4be" />
+
+<img width="673" height="382" alt="Screenshot 2026-02-09 084129" src="https://github.com/user-attachments/assets/a8fea11e-350f-4e47-be18-0750267437ca" />
+
+<img width="633" height="139" alt="Screenshot 2026-02-09 084153" src="https://github.com/user-attachments/assets/4ea38e4c-c44d-4b92-a634-69e867e5e652" />
+
+<img width="632" height="383" alt="Screenshot 2026-02-09 084203" src="https://github.com/user-attachments/assets/942c96a0-d41b-4fbc-b57b-74babf378b26" />
+
+<img width="702" height="391" alt="Screenshot 2026-02-09 084214" src="https://github.com/user-attachments/assets/46d42dcc-7bcd-4c93-8f92-3f724cac48db" />
+
+<img width="637" height="387" alt="Screenshot 2026-02-09 084225" src="https://github.com/user-attachments/assets/d5d68528-e1f8-4667-a074-bb8cb3ff0a21" />
+
+<img width="656" height="325" alt="Screenshot 2026-02-09 084233" src="https://github.com/user-attachments/assets/8ea65120-42fe-4526-8f8a-17f23e07cdb3" />
+
+<img width="726" height="136" alt="Screenshot 2026-02-09 084239" src="https://github.com/user-attachments/assets/adbf396c-7bdc-4479-a031-d91fd4f39c92" />
+
+<img width="949" height="168" alt="Screenshot 2026-02-09 084257" src="https://github.com/user-attachments/assets/d75fca42-fff3-4c19-bc57-bebce152da3b" />
+
+
+
+<img width="1232" height="535" alt="Screenshot 2026-02-09 083758" src="https://github.com/user-attachments/assets/f99251de-78b6-473b-9367-9f13fad99dfc" />
 
 
 
